@@ -2,6 +2,12 @@
 
 Progress bar which supports progress events
 
+## Import
+
+```
+<link rel="import" href="z-progress/z-progress.html">
+```
+
 ## Attributes
 
 - `status`: `info` | `success` | `warning` | `danger`
